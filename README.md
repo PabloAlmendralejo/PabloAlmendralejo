@@ -1,4 +1,4 @@
-# Hi, I'm Pablo Ramos 👋
+# Hi, I'm Pablo Borrego 👋
 
 Mathematician & Data Scientist passionate about **applied math, statistics, and scalable data solutions**. Experienced in **ML, stochastic modeling, numerical simulations, and cloud-based data pipelines**.
 
