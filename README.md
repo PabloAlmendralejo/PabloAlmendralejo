@@ -20,9 +20,9 @@ Mathematician & Data Scientist passionate about **applied math, statistics, and 
 ---
 
 ## 📂 Projects
-- [**Biogas Production Modeling**](https://github.com/PabloAlmendralejo/biogas-prediction) – ML & pipeline reducing prediction time from weeks to minutes  
+- [**Biogas Production Modeling**](https://github.com/PabloAlmendralejo/biogas-prediction) – ML & pipeline to predict methane production of substrates 
 - [**Bachelor Thesis**](https://github.com/PabloAlmendralejo/monte-carlo-simulations](https://github.com/PabloAlmendralejo/Bachelors-Thesis)) – Functional Data and Dicrete Dynamical Systems 
-- [**Numerical Solvers (ODE/PDE)**](https://github.com/PabloAlmendralejo/Chua-Circuit) – Implementations in Python  
+- [**Numerical Solvers (ODE/PDE)**](https://github.com/PabloAlmendralejo/Chua-Circuit) – Numerical Resolution of Chua Circuit EDOs 
 - [**Euler Problems**](https://github.com/PabloAlmendralejo/Euler-Problems) – Like Leetcode but for Mathematicians, I post solutions of some problems.
 
 ---
